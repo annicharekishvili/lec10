@@ -1,0 +1,26 @@
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: cyan;
+}
+
+.box2 {
+  width: 150px;
+  height: 150px;
+  background-color: purple;
+}
+
+p {
+  font-size: 30px;
+  color: blueviolet;
+}
+
+.box p {
+  font-size: 40px;
+  color: blue;
+}
+
+div > p {
+  font-size: 50px;
+  color: green;
+}
